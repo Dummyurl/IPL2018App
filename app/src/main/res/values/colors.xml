@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4092c1</color>
+    <color name="colorPrimary1">#6f71c6</color>
+    <color name="colorPrimaryDark">#4092c1</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="deeppurple">#7c4dff</color>
+    <color name="testcolorblue">#aad13e</color>
+    <color name="colorack">#20ffc7</color>
+    <color name="colorack1">#8b8c8c</color>
+    <color name="colorack2">#aac995</color>
+    <color name="colornew">#3F51B5</color>
+</resources>

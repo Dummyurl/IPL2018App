@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "412786420757",
+    "firebase_url": "https://ipl-app-cd95a.firebaseio.com",
+    "project_id": "ipl-app-cd95a",
+    "storage_bucket": "ipl-app-cd95a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412786420757:android:54c0866e6d79659d",
+        "android_client_info": {
+          "package_name": "in.blogspot.techhindi5.ipl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412786420757-7ekiu1ub7cc21joju1nme09bqmhuct7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.blogspot.techhindi5.ipl",
+            "certificate_hash": "f30b08c3905c391a322e74b5232d0376492d2fa7"
+          }
+        },
+        {
+          "client_id": "412786420757-rhap8j88ohas1ce3vv0jsvk7q88risqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChysXRb3vanxjyBFodfzdAS_w0nvfVC_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412786420757-rhap8j88ohas1ce3vv0jsvk7q88risqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
